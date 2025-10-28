@@ -1,13 +1,20 @@
 # Coffee Sales Analysis — Project Report
- Objective
+# Objective
+ 
 The objective of this project is to analyze coffee sales transaction data from a vending machine to uncover customer purchasing patterns, peak sales periods, and product performance trends.
 Additionally, a Machine Learning model is developed to predict sales revenue and assist in inventory management and marketing decisions.
-________________________________________
-Dataset Overview
+
+
+# Dataset Overview
+
 •	Dataset Name: index.csv
+
 •	Total Records: 1,133 transactions
+
 •	Time Period: March 2024 – July 2024
+
 •	Source: Open dataset (Kaggle / Google Drive)
+
 •	Key Columns:
 o	date – Transaction date
 o	datetime – Exact timestamp
