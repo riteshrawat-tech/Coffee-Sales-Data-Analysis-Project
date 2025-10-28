@@ -126,7 +126,7 @@ A Random Forest Regressor model was developed to predict transaction value (mone
 
 •	is_card
 
-Model Steps:
+ # Model Steps:
 
 •	Encoding: OneHotEncoder was used for categorical variables.
 
@@ -137,7 +137,7 @@ Model Steps:
 The model performed efficiently and could be extended for sales forecasting and inventory prediction.
 
 
- Key Insights
+# Key Insights
  
 •	92% of transactions were made using card payments.
 
@@ -149,7 +149,7 @@ The model performed efficiently and could be extended for sales forecasting and 
 
 •Evening customers prefer sweeter and richer drinks like Hot Chocolate.
 
- Business Recommendations
+# Business Recommendations
  
 Based on the analysis, the following actions are recommended:
 
@@ -163,7 +163,7 @@ Based on the analysis, the following actions are recommended:
    
 5.	Use the machine learning model to forecast next day/week sales for inventory optimization.
 
- Conclusion
+# Conclusion
  
 The Coffee Sales Data Analysis project successfully identified:
 
